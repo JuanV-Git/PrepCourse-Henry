@@ -1,1 +1,1 @@
-Este proyecto es un prueba
+Este proyecto es un prueba del curso Java Script
